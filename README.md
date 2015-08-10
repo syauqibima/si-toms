@@ -1,6 +1,4 @@
-simpeg
+Si-toms
 =========
 
-Simple Employee Management Applications
-
-Just simple employee management application with CodeIgniter and Twitter Bootstrap
+Sistem Informasi Tracking Order Management System
